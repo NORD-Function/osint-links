@@ -4,6 +4,18 @@
 
 Open Source Intelligence (OSINT) is widely used in cybersecurity, forensic investigations, compliance, and threat analysis. Below is a comprehensive list of tools, browsers, and online tutorials that can help you gather information from public sources.
 
+## **Table of Contents**
+
+1. [Recommended Browsers for OSINT](#recommended-browsers-for-osint)
+2. [Advanced Search Tools](#advanced-search-tools)
+3. [Social Media Analysis Tools](#social-media-analysis-tools)
+4. [Geolocation Tools](#geolocation-tools)
+5. [WHOIS Data Collection Tools](#whois-data-collection-tools)
+6. [Image and Video Analysis Tools](#image-and-video-analysis-tools)
+7. [Dark Web and Deep Web Tools](#dark-web-and-deep-web-tools)
+8. [Free OSINT Tutorials and Courses](#free-osint-tutorials-and-courses)
+9. [OSINT Automation Tools](#osint-automation-tools)
+
 ---
 
 ## **Recommended Browsers for OSINT**
@@ -31,6 +43,14 @@ Open Source Intelligence (OSINT) is widely used in cybersecurity, forensic inves
 6. **Iridium Browser**  
    Official site: [https://iridiumbrowser.de/](https://iridiumbrowser.de/)  
    A secure browser based on Chromium with enhanced privacy features.
+
+7. **Pale Moon**  
+   Official site: [https://www.palemoon.org/](https://www.palemoon.org/)  
+   An open-source web browser with a focus on customization and privacy.
+
+8. **Whonix**  
+   Official site: [https://www.whonix.org/](https://www.whonix.org/)  
+   A privacy-focused operating system that routes all connections through Tor.
 
 ---
 
@@ -76,6 +96,26 @@ Open Source Intelligence (OSINT) is widely used in cybersecurity, forensic inves
    Official site: [https://intelx.io/](https://intelx.io/)  
    A powerful search engine for archived and leaked data.
 
+11. **ExifTool**  
+   GitHub: [https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool)  
+   A tool to read, write, and edit metadata in images and documents.
+
+12. **GHDB**  
+   Official site: [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)  
+   Google Hacking Database for advanced search queries.
+
+13. **URLScan.io**  
+   Official site: [https://urlscan.io/](https://urlscan.io/)  
+   A tool to scan and analyze URLs for potential threats.
+
+14. **Spyse**  
+   Official site: [https://spyse.com/](https://spyse.com/)  
+   A comprehensive internet assets search engine.
+
+15. **ViewDNS.info**  
+   Official site: [https://viewdns.info/](https://viewdns.info/)  
+   A collection of network tools for DNS lookup, reverse IP, and more.
+
 ---
 
 ## **Social Media Analysis Tools**
@@ -112,163 +152,19 @@ Open Source Intelligence (OSINT) is widely used in cybersecurity, forensic inves
    Official site: [https://www.nexalogy.com/](https://www.nexalogy.com/)  
    A tool to discover hidden connections in social media data.
 
----
+9. **CrowdTangle**  
+   Official site: [https://www.crowdtangle.com/](https://www.crowdtangle.com/)  
+   A tool for tracking and analyzing social media trends.
 
-## **Geolocation Tools**
+10. **PhantomBuster**  
+   Official site: [https://www.phantombuster.com/](https://www.phantombuster.com/)  
+   Automate scraping of social media platforms.
 
-1. **Google Earth Pro**  
-   Download: [https://www.google.com/earth/](https://www.google.com/earth/)  
-   A tool to view maps and places of interest.
+11. **TruthFinder**  
+   Official site: [https://www.truthfinder.com/](https://www.truthfinder.com/)  
+   A tool for deep background checks.
 
-2. **GeoSocial Footprint**  
-   Official site: [http://geosocialfootprint.com/](http://geosocialfootprint.com/)  
-   Analyze geolocated social media posts.
 
-3. **IPinfo**  
-   Official site: [https://ipinfo.io/](https://ipinfo.io/)  
-   Get information about IP addresses and their location.
-
-4. **Mapillary**  
-   Official site: [https://www.mapillary.com/](https://www.mapillary.com/)  
-   A collaborative street-level imagery platform.
-
-5. **What3Words**  
-   Official site: [https://what3words.com/](https://what3words.com/)  
-   A geolocation tool that divides the world into 3-meter squares.
-
-6. **OpenStreetMap**  
-   Official site: [https://www.openstreetmap.org/](https://www.openstreetmap.org/)  
-   A free, editable map of the world.
-
-7. **Geofeedia**  
-   Official site: [https://geofeedia.com/](https://geofeedia.com/)  
-   A tool to analyze social media posts by location.
-
-8. **Wikimapia**  
-   Official site: [http://wikimapia.org/](http://wikimapia.org/)  
-   A collaborative map to find places of interest.
-
----
-
-## **WHOIS Data Collection Tools**
-
-1. **Whois Lookup**  
-   Official site: [https://whois.domaintools.com/](https://whois.domaintools.com/)  
-   A tool to check domain registration information.
-
-2. **IPWHOIS.io**  
-   Official site: [https://ipwhois.io/](https://ipwhois.io/)  
-   An API to get WHOIS data for IPs and domains.
-
-3. **Amass**  
-   GitHub: [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)  
-   A tool for collecting network infrastructure information.
-
-4. **ViewDNS.info**  
-   Official site: [https://viewdns.info/](https://viewdns.info/)  
-   A comprehensive suite of DNS tools.
-
-5. **DNSDumpster**  
-   Official site: [https://dnsdumpster.com/](https://dnsdumpster.com/)  
-   A DNS reconnaissance tool to find hosts related to a domain.
-
-6. **SecurityTrails**  
-   Official site: [https://securitytrails.com/](https://securitytrails.com/)  
-   A tool to get comprehensive domain and IP data.
-
-7. **WhoXY**  
-   Official site: [https://whoxy.com/](https://whoxy.com/)  
-   An advanced WHOIS lookup tool with historical records.
-
-8. **CentralOps**  
-   Official site: [https://centralops.net/](https://centralops.net/)  
-   A tool for online investigations.
-
----
-
-## **Free OSINT Tutorials and Courses**
-
-1. **OSINT Framework**  
-   Official site: [https://osintframework.com/](https://osintframework.com/)  
-   An interactive map with links to various OSINT tools.
-
-2. **Bellingcat's OSINT Guide**  
-   Official site: [https://www.bellingcat.com/resources/how-tos/](https://www.bellingcat.com/resources/how-tos/)  
-   Detailed tutorials on conducting OSINT investigations.
-
-3. **CyberMentor's OSINT Course** (YouTube)  
-   Link: [https://www.youtube.com/c/TheCyberMentor](https://www.youtube.com/c/TheCyberMentor)  
-   A channel with courses and practical OSINT tips.
-
-4. **OSINT Techniques**  
-   Site: [https://osinttechniques.com/](https://osinttechniques.com/)  
-   A blog with a wide range of OSINT guides.
-
-5. **Intel Techniques**  
-   Official site: [https://inteltechniques.com/](https://inteltechniques.com/)  
-   A resource with tools and training for OSINT investigations.
-
-6. **The OSINTion**  
-   Official site: [https://theosintion.com/](https://theosintion.com/)  
-   Offers OSINT guides, courses, and tools.
-
-7. **SANS OSINT Summit**  
-   Official site: [https://www.sans.org/cyber-security-training-events/osint-summit/](https://www.sans.org/cyber-security-training-events/osint-summit/)  
-   A yearly event with valuable OSINT insights.
-
-8. **HackerSploit's OSINT Tutorials** (YouTube)  
-   Link: [https://www.youtube.com/c/HackerSploit](https://www.youtube.com/c/HackerSploit)  
-   A YouTube channel with OSINT techniques and ethical hacking tutorials.
-
-9. **Practical OSINT by Trace Labs**  
-   Site: [https://www.tracelabs.org/](https://www.tracelabs.org/)  
-   Focuses on using OSINT to help find missing persons.
-
----
-
-## **Reconnaissance and Scanning Tools**
-
-1. **Recon-ng**  
-   GitHub: [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)  
-   A framework for automating OSINT tasks.
-
-2. **SpiderFoot**  
-   Official site: [https://www.spiderfoot.net/](https://www.spiderfoot.net/)  
-   A tool for collecting data from open sources.
-
-3. **theHarvester**  
-   GitHub: [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)  
-   A tool for searching emails, subdomains, hosts, and more.
-
-4. **FOCA**  
-   Official site: [https://www.elevenpaths.com/labstools/foca](https://www.elevenpaths.com/labstools/foca)  
-   A tool for metadata extraction.
-
-5. **Metagoofil**  
-   GitHub: [https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil)  
-   A tool to extract metadata from public documents.
-
-6. **Osmedeus**  
-   GitHub: [https://github.com/j3ssie/Osmedeus](https://github.com/j3ssie/Osmedeus)  
-   A powerful automated reconnaissance framework.
-
-7. **Aquatone**  
-   GitHub: [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)  
-   A tool for domain flyovers and reconnaissance.
-
-8. **Nmap**  
-   Official site: [https://nmap.org/](https://nmap.org/)  
-   A classic tool for network discovery and security auditing.
-
-9. **Sublist3r**  
-   GitHub: [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)  
-   A tool to enumerate subdomains.
-
-10. **Knockpy**  
-   GitHub: [https://github.com/guelfoweb/knock](https://github.com/guelfoweb/knock)  
-   A Python tool for gathering subdomain information.
-
----
 
 
 
